@@ -1,8 +1,6 @@
 # A RazeXR fork from [Domyoji](https://github.com/domyoji81/VRaze) with Voxel Weapon support and some other improvements
 
-This is only a resigned version so that it runs on Pico devices. It is exactly the same build from Domyoji (1:1) and will work on Quest too
-
-Filestructure:
+**This is only a resigned version so that it runs on Pico devices. It is exactly the same build from Domyoji (1:1) and will work on Quest too**
 
 ## INSTALLATION INSTRUCTIONS
 1. If upgrading from a previous version, uninstall VRaze from your headset first, then navigate to the /VRaze/ folder on your headset and delete `raze.pk3` and `commandline.txt`.
